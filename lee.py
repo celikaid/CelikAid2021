@@ -1,0 +1,6 @@
+print("lee is working hardly ......")
+print("lee is working hardly .....")
+print("lee is working hardly ....")
+print("lee is working hardly ...")
+print("lee is working hardly ..")
+print("lee is working hardly .")
